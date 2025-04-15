@@ -2,7 +2,7 @@
 
 Olá, pessoal! 👋
 
-É com grande entusiasmo e um profundo sentimento de realização que compartilho com vocês meu segundo Projeto Integrador (P.I.) no curso de **Tecnólogo de Análise e Desenvolvimento de Sistemas** do Centro Universitário Senac. Neste projeto, trabalhei em colaboração com meu colega de faculdade [@Rodrigo](https://github.com/Kaique-Parente) para desenvolver um **Sistema de Ponto de Venda (PDV)** para um supermercado.
+É com grande entusiasmo e um profundo sentimento de realização que compartilho com vocês meu segundo Projeto Integrador (P.I.) no curso de **Tecnólogo de Análise e Desenvolvimento de Sistemas** do Centro Universitário Senac. Neste projeto, trabalhei em colaboração com meu colega de faculdade [@Kaique](https://github.com/Kaique-Parente) para desenvolver um **Sistema de Ponto de Venda (PDV)** para um supermercado.
 
 ## Apresentação 📣
 ![Imagem do Projeto](./src/main/resources/images/CapaKR.PNG) <br>
